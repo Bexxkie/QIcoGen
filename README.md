@@ -1,4 +1,4 @@
-QIcoGen                                                                                 
+# QIcoGen                                                                                 
 
 Version: 2.0
 Initial Release: 2019-may-01
